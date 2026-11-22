@@ -21,6 +21,8 @@ CREATE DATABASE latihan1;
 ```
  ![Tampilan Halaman Web](foto/1.jpg)
 
+ ![Tampilan Halaman Web](foto/1a.jpg)
+
 ## 3. Program CRUD
 
 Semua file disimpan di `htdocs/lab8_php_database` beserta folder `gambar` untuk menyimpan hasil upload.
