@@ -1,6 +1,6 @@
 # Lab8Web - Praktikum 8: PHP dan Database MySQL
 
-**Nama:** (isi nama) | **NIM:** (isi NIM) | **Kelas:** (isi kelas)
+**Nama:** (CHOIRUL MAJID) | **NIM:** (312510174) | **Kelas:** (I253C)
 
 ## Tujuan
 
