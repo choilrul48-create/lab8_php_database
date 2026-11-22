@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse; /* Menggabungkan garis ganda menjadi satu garis tegas */
+}
+
+th,
+td {
+  border: 1px solid #333; /* Memberi garis batas 1px pada setiap sel */
+  padding: 8px 12px; /* Memberi ruang jarak di dalam kotak */
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
