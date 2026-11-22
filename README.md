@@ -37,23 +37,35 @@ Semua file disimpan di `htdocs/lab8_php_database` beserta folder `gambar` untuk 
 
 **Koneksi database**
 
-![Tes koneksi](screenshots/03-koneksi.png)
+![Tampilan Halaman Web](foto/2.jpg)
+![Tampilan Halaman Web](foto/2a.jpg)
 
 **Tampil data (Read)**
+![Tampilan Halaman Web](foto/3.jpg)
+![Tampilan Halaman Web](foto/3a.jpg)
 
-![Index](screenshots/04-index.png)
 
 **Tambah data (Create)**
 
-![Tambah](screenshots/05-tambah.png)
+![Tampilan Halaman Web](foto/4.jpg)
+![Tampilan Halaman Web](foto/4a.jpg)
 
 **Ubah data (Update)**
 
-![Ubah](screenshots/06-ubah.png)
+![Tampilan Halaman Web](foto/5.jpg)
+![Tampilan Halaman Web](foto/5a.jpg)
 
 **Hapus data (Delete)**
 
-![Hapus](screenshots/07-hapus.png)
+![Tampilan Halaman Web](foto/6.jpg)
+
+sebelum di hapus data
+
+![Tampilan Halaman Web](foto/6a.jpg)
+
+setelah dihapus
+
+![Tampilan Halaman Web](foto/6s.jpg)
 
 ## 4. Perbaikan dari Kode Modul
 
