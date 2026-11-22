@@ -20,7 +20,7 @@ Dibuat database `latihan1` dan tabel `data_barang` (kolom: `id_barang`, `kategor
 CREATE DATABASE latihan1;
 ```
 
-![Tabel dan data](screenshots/02-tabel-data.png)
+ ![Tampilan Halaman Web](New%foto%20/1.jpg)
 
 ## 3. Program CRUD
 
