@@ -78,11 +78,7 @@ Semua file disimpan di `htdocs/lab8_php_database` beserta folder `gambar` untuk 
 ![Tampilan Halaman Web](foto/6s.jpg)
 
 
-## 4. Perbaikan dari Kode Modul
 
-- `ubah.php`: `enctype` diperbaiki menjadi `multipart/form-data`, dan dropdown kategori dibandingkan dengan nilainya masing-masing agar terpilih dengan benar. Query memakai prepared statement.
-- `index.php`: kolom Aksi diganti tautan Ubah dan Hapus, isi kolom harga disesuaikan dengan header, dan path gambar diperbaiki agar tidak ganda.
-
-## 5. Kesimpulan
+## 4. Kesimpulan
 
 Dengan PHP dan MySQL, operasi CRUD dapat dibuat memakai perintah SQL `INSERT`, `SELECT`, `UPDATE`, dan `DELETE` yang dijalankan lewat `mysqli_query()`. Input pengguna sebaiknya diproses dengan prepared statement untuk menghindari SQL injection.
